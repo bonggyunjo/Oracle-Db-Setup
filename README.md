@@ -41,7 +41,8 @@
 - PC 이름이 한글로 되어 있는 경우 ERROR : 12560 에러가 발생
 
 #### 1. ERROR 12560
-> <img src="https://github.com/user-attachments/assets/0625625a-6ae0-46e1-a747-2a652a1246ee" alt="image" width="500"/>
+
+> <img src="https://github.com/user-attachments/assets/c9ba23c0-8529-44fd-909c-e3532a795d65" alt="image" width="500"/>
 
 > **첫 번째 해결 방법**은 내 PC 이름이 한글로 되어 있는 경우 영어로 변경하기
 > **두 번째 해결 방법**은 환경 변수 설정하기
