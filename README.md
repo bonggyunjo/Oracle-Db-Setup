@@ -45,6 +45,7 @@
 > <img src="https://github.com/user-attachments/assets/c9ba23c0-8529-44fd-909c-e3532a795d65" alt="image" width="500"/>
 
 > **첫 번째 해결 방법**은 내 PC 이름이 한글로 되어 있는 경우 영어로 변경하기
+> 
 > **두 번째 해결 방법**은 환경 변수 설정하기
 
 > <img src="https://github.com/user-attachments/assets/7231cb99-5296-4c07-9e9c-587b0e66ee93" alt="image" width="500"/>
@@ -52,7 +53,7 @@
 > <img src="https://github.com/user-attachments/assets/29944d22-3ab6-457a-9226-05b39df28ee9" alt="image" width="400"/>
 
 #### 2. ids_oracleconfigdlg_databaseconfigfailedmsg
-
+<img src="https://github.com/user-attachments/assets/f6a21769-5e8c-4752-b096-8d330c296130" alt="image" width="400"/>
 
 위 에러 발생시
 ERROR 12560가 발생 했을 때 해결 방법 해볼 것. 안 될시,
